@@ -17,6 +17,8 @@ This project implements a machine learning classifier that uses Support Vector M
 - `scikit-image`
 - `joblib`
 
+Dataset link: https://www.microsoft.com/en-us/download/details.aspx?id=54765
+
 I have used following images to test the model which i downloaded from google.
 ![catts](https://github.com/user-attachments/assets/cb510462-d555-489e-a014-ac1d3ef61466)
 ![dogggs](https://github.com/user-attachments/assets/4d3a261a-60c2-4241-9e71-aadbb251791d)
